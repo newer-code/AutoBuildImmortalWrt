@@ -47,7 +47,7 @@ PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-airplay2-zh-cn"
 PACKAGES="$PACKAGES luci-app-smartdns"
 PACKAGES="$PACKAGES luci-i18n-appfilter-zh-cn"
-# PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-wechatpush-zh-cn"
 PACKAGES="$PACKAGES luci-app-unblockneteasemusic"
 PACKAGES="$PACKAGES luci-i18n-wol-zh-cn"
 
