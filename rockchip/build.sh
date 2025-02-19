@@ -42,8 +42,8 @@ PACKAGES="$PACKAGES luci-app-openclash"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 
 # 自定义插件
-PACKAGES="$PACKAGES luci-app-adguardhome"
-PACKAGES="$PACKAGES luci-i18n-ddns-go"
+# PACKAGES="$PACKAGES luci-app-adguardhome"
+PACKAGES="$PACKAGES luci-i18n-ddns-go-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-airplay2-zh-cn"
 PACKAGES="$PACKAGES luci-app-smartdns"
 PACKAGES="$PACKAGES luci-i18n-appfilter-zh-cn"
